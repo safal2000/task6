@@ -1,30 +1,33 @@
-# My Project
+# Driving Eligibility Checker
 
-Index.html
+This script allows you to check whether a person is old enough to drive based on their age.
 
-# Table of Contents
-- [Description](#description)
-- [Contact Information](#contact-information)
-- [Skills](#skills)
-- [Education](#education)
-- [Work Experience](#work-experience)
-- [Projects](#projects)
+## Table of Contents
 
-# Description
-A breif description about myself and my background
+- [Usage](#usage)
+- [Requirments](#requirments)
 
-# Contact Information
-A list of my contact information
 
-# Skills
-A list of my skills
+## Usage
 
-# Education
-Information on my education background
+1. **Clone the repository**:
+   one command prompt for file location:
+   git clone https://github.com/your-username/driving-eligibility-checker.git
+   cd driving-eligibility-checker
 
-# Work Experience
-Information on my previous work experience
+2. **Run python script**
 
-# Projects 
-A link to my github where my projects are displayed
+3. **Answer questions with the inputs**
+
+4. **Output**
+   The script will inform you wether you are able to drive or not.
+
+## Requirments 
+
+1. **Python v_3.x**
+2. **Virtual Environment (Optional)**
+
+
+
+   
 
