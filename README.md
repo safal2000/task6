@@ -18,7 +18,7 @@ This script allows you to check whether a person is old enough to drive based on
 
 3. **Answer questions with the inputs**
 
-4. **Output**
+4. **Output**:
    The script will inform you wether you are able to drive or not.
 
 ## Requirments 
