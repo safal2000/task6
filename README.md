@@ -10,8 +10,7 @@ This script allows you to check whether a person is old enough to drive based on
 
 ## Usage
 
-1. **Clone the repository**:
-   one command prompt for file location:
+1. **Clone the repository using command prompt**:
    git clone https://github.com/your-username/driving-eligibility-checker.git
    cd driving-eligibility-checker
 
