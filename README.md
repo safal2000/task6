@@ -14,7 +14,7 @@ This python script is able to deduce whether you are allowed to drive or not bas
 ## Installation
 
 1. **Clone the repository using command prompt**:
-   git clone https://github.com/your-username/method_override.git
+   git clone https://github.com/safal2000/method_override.git
    
 2. **Navigate to script directory**:
    cd method_override
