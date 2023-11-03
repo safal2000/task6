@@ -14,7 +14,7 @@ This python script is able to deduce whether you are allowed to drive or not bas
 ## Installation
 
 1. **Clone the repository using command prompt**:
-   git clone https://github.com/your-username/driving-eligibility-checker.git
+   git clone https://github.com/your-username/method_override.git
    cd driving-eligibility-checker
 
 2. **Run python script**
