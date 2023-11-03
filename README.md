@@ -15,9 +15,11 @@ This python script is able to deduce whether you are allowed to drive or not bas
 
 1. **Clone the repository using command prompt**:
    git clone https://github.com/your-username/method_override.git
-   cd driving-eligibility-checker
+   
+2. **Navigate to script directory**:
+   cd method_override
 
-2. **Run python script**
+3. **Run python script**
 
 ## Usage
 
