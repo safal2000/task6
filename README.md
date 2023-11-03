@@ -1,14 +1,17 @@
 # Driving Eligibility Checker
 
-This script allows you to check whether a person is old enough to drive based on their age.
-
 ## Table of Contents
-
+- [About](#about)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Requirments](#requirments)
 
+## About
 
-## Usage
+This python script is able to deduce whether you are allowed to drive or not based on inputs answered by the user.
+
+
+## Installation
 
 1. **Clone the repository using command prompt**:
    git clone https://github.com/your-username/driving-eligibility-checker.git
@@ -16,10 +19,12 @@ This script allows you to check whether a person is old enough to drive based on
 
 2. **Run python script**
 
-3. **Answer questions with the inputs**
+## Usage
 
-4. **Output**:
-   The script will inform you wether you are able to drive or not.
+1. **Answer questions with the inputs**
+
+2. **Output**:
+   The script will inform you whether you are able to drive or not.
 
 ## Requirments 
 
